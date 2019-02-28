@@ -1,0 +1,1 @@
+# pim-akeneo-vsbridge-indexer
